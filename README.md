@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AsmitGanvir
 - 👀 I’m interested in making Trading models
-- 🌱 I’m currently learning library in pythons
-- 💞️ I’m looking to collaborate on algo trading
+- 🌱 I’m currently learning library in python (Flask)
+- 💞️ I’m looking to collaborate on algo trading 
 - 📫 How to reach me https://x.com/ashmit_ganvir
-- 😄 Pronouns: The concept of pronouns are complicated  
+- 😄 Pronouns: The concept of pronouns are complicated(he/him)  
 - ⚡ Fun fact: I like maths
 
 <!---
