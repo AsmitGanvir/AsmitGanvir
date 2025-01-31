@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on algo trading 
 - 📫 How to reach me https://x.com/ashmit_ganvir
-- 😄 Pronouns: The concept of pronouns are complicated(he/him)  
+- 😭 Pronouns: The concept of pronouns are complicated(he/him)  
 - ⚡ Fun fact: I like maths
 
 <!---
